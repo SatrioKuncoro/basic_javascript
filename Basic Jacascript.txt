@@ -1,2 +1,10 @@
-Keterangan: Belajar Javascript
-by: Satrio Kuncoro
+==== List Materi Javascript ====
+a. basic
+    1. File Location
+    2. Variable
+    3. Output
+
+Nama        : Satrio Kuncoro
+Kelas       : XII RPL
+Mapel       : Pemograman Website
+Guru Mapel  : Hasudungan Sitorus
